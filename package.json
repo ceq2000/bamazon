@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node.js & MySQL Amazon-like storefront with the MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "customer": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceq2000/bamazon.git"
+  },
+  "author": "Carlos Quinones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceq2000/bamazon/issues"
+  },
+  "homepage": "https://github.com/ceq2000/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
