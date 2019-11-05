@@ -1,5 +1,5 @@
 # bamazon commerce application
-Amazon-like storefront with the MySQL
+Amazon-like storefront
 
 ## Technologies Used
 - node.js
