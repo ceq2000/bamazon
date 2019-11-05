@@ -1,5 +1,5 @@
 # bamazon commerce application
-Node.js & MySQL Amazon-like storefront with the MySQL
+UCLA Coding Bootcamp MySql Homework
 
 ## Technologies Used
 - node.js
