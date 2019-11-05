@@ -1,6 +1,11 @@
 # bamazon commerce application
 Amazon-like storefront
 
+## Run Instructions
+1) download files
+2) open bash terminal window @ the app folder root directory
+3) from bash terminal prompt type: "npm run customer" 
+
 ## Technologies Used
 - node.js
 - mySQL
