@@ -1,5 +1,5 @@
 # bamazon commerce application
-UCLA Coding Bootcamp MySql Homework
+Amazon-like storefront with the MySQL
 
 ## Technologies Used
 - node.js
@@ -69,6 +69,9 @@ which adds that product to the database:
 
 ![alt text](assets/11.png "mySQL customer purchase table update")
 
+#### Technologies Used:
+
+Node.js & MySQL
 
 
-# bamazon
+
